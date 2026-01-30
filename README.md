@@ -6,7 +6,7 @@
 
 - 🌐 https://www.geeksforgeeks.org/gate/original-gate-previous-year-question-papers-cse-and-it-gq/
 
-TopicWise Q's:
+TopicWise Notes/Q's/Practice:
 
 - 🌐 https://www.geeksforgeeks.org/gate/gate-cs-subject-wise-and-topic-wise-pyq-quizzes/
 - 🌐 https://practicepaper.in/gate-cse/topic-wise-practice-of-gate-cse-previous-year-papers#goog_fullscreen_ad
